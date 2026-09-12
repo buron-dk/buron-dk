@@ -1,0 +1,14 @@
+{
+  "generator": "BrandForge Bot",
+  "engine": "Autonomous Web Studio + Research + Real Media + Commerce + Browser QA",
+  "version": "16.5",
+  "build_id": "20260912221449-buron",
+  "generated_at": "2026-09-12T22:14:55.956Z",
+  "purpose": "github-profile",
+  "paths": [
+    ".brandforge-manifest.json",
+    "README.md",
+    "assets/logo.svg",
+    "assets/profile-avatar.png"
+  ]
+}
